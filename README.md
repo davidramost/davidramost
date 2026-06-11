@@ -30,11 +30,11 @@ Desarrollador con experiencia en **desarrollo móvil multiplataforma** y **web f
 - Implementación de arquitectura escalable y mantenible
 - Optimización de rendimiento y UX
 
-**Desarrollo Web Full Stack** (Formación completa)
+**Desarrollo Web Full Stack & Backend**
 
+- Desarrollo backend robusto con **Spring Boot** y **PHP**
 - Frontend moderno con **React** + **TypeScript**
 - Maquetación avanzada: **Tailwind CSS**, **Bootstrap**
-- Backend con **PHP** y adquisición de competencias en **Spring Boot**
 
 **Formación Especializada**
 
@@ -77,13 +77,13 @@ Desarrollador con experiencia en **desarrollo móvil multiplataforma** y **web f
 
 ---
 
-## 🔄 Trayectoria Actual
+## 🔄 Enfoque Profesional
 
-Especializándome en **Spring Boot** para fortalecer competencias en backend enterprise y consolidar perfil **Full Stack** profesional, capaz de:
+Sólidas competencias en **Spring Boot** para el desarrollo backend enterprise, consolidando un perfil **Full Stack** profesional capacitado para:
 
 - Diseñar y desarrollar microservicios escalables
-- Arquitecturas limpias y mantenibles
-- Ciclos completos de desarrollo (concepto → producción)
+- Implementar arquitecturas limpias y mantenibles
+- Gestionar ciclos completos de desarrollo (concepto → producción)
 
 ---
 
